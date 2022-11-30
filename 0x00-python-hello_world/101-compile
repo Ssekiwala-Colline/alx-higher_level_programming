@@ -1,0 +1,3 @@
+#!/bin/bash
+paython3 -m compileall -b $PYFILE i
+
