@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def test_rectangle():
     rect1 = Rectangle()
     rect2 = Rectangle()
